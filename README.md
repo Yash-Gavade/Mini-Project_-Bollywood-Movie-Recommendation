@@ -18,7 +18,7 @@ Team Members:
                                                                                                                                                    
 
 
-# Mini-Project_-Movie-Recomendation
+# Mini-Project_ Movie Recomendation
 
 Introduction: 
 
