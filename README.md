@@ -3,12 +3,8 @@
 
 ![image](https://user-images.githubusercontent.com/74112721/144545556-f1622854-5ddb-44c2-ae66-602c907b9289.png)
 
-                                                              SOMAIYA VIDYAVIHAR UNIVERSITY
-                                                              
-                                                              
+                                                              SOMAIYA VIDYAVIHAR UNIVERSITY         
                                                     K. J. Somaiya College of Engineering, Mumbai -77
-                                                    
-                                                    
                                                  (A Constituent College of Somaiya Vidyavihar University)
                                                  
                                                  
