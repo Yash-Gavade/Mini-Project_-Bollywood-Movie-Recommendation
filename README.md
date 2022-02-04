@@ -25,6 +25,7 @@ A Movie Recommendation system is a system that provides movie suggestions to use
 
 
 Approach:
+
 The most common approach towards recommendation systems was the Content-based recommendations. Content-based techniques develop representations of clients and items through the investigation of additional data, for example, record content, client proles and the traits of items, to make suggestions
 
 
