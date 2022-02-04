@@ -18,8 +18,7 @@ Team Members:
                                                                                                                                                    
 
 
-# Mini-Project_ Movie Recomendation
-
+# Mini-Project_ Movie Recommendation
 Introduction: 
 
 A Movie Recommendation system is a system that provides movie suggestions to users based on some dataset. Such a system will predict what movies a user will like based on the attributes of previously liked movies by that user. Content-Based recommendations have long been in fashion but they tend to overlook some great suggestions that may not be covered by mere  similarities. To overcome such shortcomings, we will combine collaborative  techniques having a  with neural networks to provide users(who have already rated movies previously) with appropriate suggestions.
