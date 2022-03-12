@@ -74,4 +74,13 @@ The ratings.csv file has four fields namely:
 
  
 
+##### 	Software development tools
+1.	Microsoft Edge
+2.	HTML/CSS/JAVA SCRIPT
+3.	Draw.io
+4.	CHROME 
+5.	API
+6.	Jupiter Notebook
+            Pandas
+            A Python scikit
 
