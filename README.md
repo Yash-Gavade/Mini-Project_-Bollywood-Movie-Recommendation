@@ -67,10 +67,8 @@ The ratings.csv file has four fields namely:
  
 2: We Change the working directory and replace it with  our dataset is stored in it .
 
-
  3: We Read the ratings file with the below command into the local variable ratings  shows you the top five records in the data set. We see that we are using the pandas library in the cell 
-
-
+ 
 4: Next, we plot a bar graph describing the total number of reviews for each movie individually.
 5: Finally, we arrange the titles along with their ratings in decending order. This gives us a list of top-rated movies
 
