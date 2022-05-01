@@ -53,13 +53,27 @@ analyzing the content of items which have been seen by the user.
 
  #### Memory-Based Collaborative Filtering:
  
-Memorybased algorithms approach the collaborative filtering problem
+Memory based algorithms approach the collaborative filtering problem
 by using the entire database. Here we draw the similarity
 between User-User or Item-Item by finding out the distance
 between them. Distance is calculated by referring to some
 numeric value. For use case of movie recommendation,
 rating can be considered as a factor to calculate the distance.
 
+ #### Limitation of Memory based filtering
+ 
+Memory-based collaborative filtering approaches that
+compute distance relationships between items or users have
+these two major issues:
+
+•  It does not scale particularly well to massive datasets,
+   especially for real-time recommendations based on user
+   behavior similarities which takes a lot of computations.
+•  Ratings matrices may be overfitting to noisy representations of user tastes and preferences. When we use
+   distance based neighborhood approaches on raw data,
+   we match to sparse low-level details that we assume
+   represent the users preference vector instead of the
+   vector itself.
 
 #### Requirements:
 1.	Modules for :   Searching, Issuing, Returning and Buying resources 
