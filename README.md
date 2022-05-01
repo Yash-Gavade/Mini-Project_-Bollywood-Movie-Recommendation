@@ -44,6 +44,23 @@ Difficulty in  Exploring resources for Bollywood Movies Data Set .
 Objective of the project:
 To provide a system supporting features for searching, Suggesting  resources for Bollywood Movies.
 
+####  Content-Based Filtering: 
+
+Content-based filtering, also referred to as cognitive filtering, recommends items based on a comparison between
+the content of the items and a user profile. The content of each item is represented as a set of descriptors or terms,
+typically the words that occur in a document. The user profile is represented with the same terms and built up by
+analyzing the content of items which have been seen by the user. 
+
+ #### Memory-Based Collaborative Filtering:
+ 
+Memorybased algorithms approach the collaborative filtering problem
+by using the entire database. Here we draw the similarity
+between User-User or Item-Item by finding out the distance
+between them. Distance is calculated by referring to some
+numeric value. For use case of movie recommendation,
+rating can be considered as a factor to calculate the distance.
+
+
 #### Requirements:
 1.	Modules for :   Searching, Issuing, Returning and Buying resources 
 2.	Provide intuitive, user friendly, software which could be access using any handheld device.
@@ -83,4 +100,6 @@ The ratings.csv file has four fields namely:
 6.	Jupiter Notebook
             Pandas
             A Python scikit
+            
+            
 
