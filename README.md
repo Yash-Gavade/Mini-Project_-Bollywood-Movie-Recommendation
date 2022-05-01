@@ -142,7 +142,7 @@ The ratings.csv file has four fields namely:
 
 [13] http://recommender-systems.org/content-based-filtering/
 
-[14] https://hackernoon.com/the-fastest-way-to-identify-keywords-in-newsarticles-tfidf-with-wikipedia-python-version-baf874d7eb16
+[14] https://hackernoon.com/the-fastest-way-to-identify-keywords-in-news articles-tfidf-with-wikipedia-python-version-baf874d7eb16
 
 [15] https://www.researchgate.net/publication/21547071
 
