@@ -117,18 +117,32 @@ The ratings.csv file has four fields namely:
             
 ##### REFERENCES
 [1] https://www.datacamp.com/community/tutorials/recommender-systems python
+
 [2] https://towardsdatascience.com/various-implementations-of collaborative-filtering-100385c6dfe0
+
 [3] https://medium.com/@james aka yale/the-4-recommendation-engines that-can-predict-your-movie-tastes-bbec857b8223
+
 [4] https://en.wikipedia.org/wiki/Singular value decomposition
+
 [5] https://github.com/gpfvic/IRR
+
 [6] https://surprise.readthedocs.io/en/stable/index.html
+
 [7] https://www.quora.com/Whats-the-difference-between-SVD-andSVD++
+
 [8] https://blog.statsbot.co/singular-value-decomposition-tutorial 52c695315254
+
 [9] https://www.quora.com/Whats-the-difference-between-SVD-and SVD++
+
 [10] https://medium.com/recombee-blog/machine-learning-for recommender-systems-part-1-algorithms-evaluation-and-cold-start 6f696683d0ed
+
 [11] http://www.awesomestats.in/python-recommending-movies/
+
 [12] https://ieeexplore.ieee.org/document/8058367
+
 [13] http://recommender-systems.org/content-based-filtering/
+
 [14] https://hackernoon.com/the-fastest-way-to-identify-keywords-in-newsarticles-tfidf-with-wikipedia-python-version-baf874d7eb16
+
 [15] https://www.researchgate.net/publication/21547071
 
