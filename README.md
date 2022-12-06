@@ -1,10 +1,5 @@
-![image](https://user-images.githubusercontent.com/74112721/144545556-f1622854-5ddb-44c2-ae66-602c907b9289.png) ___________________K. J. Somaiya College of Engineering, Mumbai-77 _______________ ![image](https://user-images.githubusercontent.com/74112721/144545198-29fb944e-cc94-4bef-91aa-ff1ffbc8af90.png)
 
-
-
-
-
-# Mini-Project_ Movie Recommendation
+# Mini-Project_ Bollywood Movie Recommendation
 
 
 ####  Introduction: 
