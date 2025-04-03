@@ -1,5 +1,5 @@
 
-# Mini-Project_ Bollywood Movie Recommendation
+# Bollywood Movie Recommendation
 
 
 ####  Introduction: 
